@@ -110,7 +110,7 @@
   cursor: pointer;
   transition: background-color 200ms ease-in-out;
   outline: none;
-  background-image: url("../images/icon-dice.svg");
+  background-image: url("/images/dice.svg");
   background-position: center;
   background-size: 60%;
   background-repeat: no-repeat;
